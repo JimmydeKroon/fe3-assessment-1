@@ -1,5 +1,5 @@
 # Assessment 1
-This is the first assessment for FE3, this assessment will my progress during the first weeks
+This is the first assessment for FE3, this assessment will show my progress during the first weeks
 
 ## Preview
 ![alt text](https://github.com/JimmydeKroon/fe3-assessment-1/blob/master/assessment%201/Preview.png "preview assessment 1")
