@@ -1,6 +1,9 @@
 # Assessment 1
 This is the first assessment for FE3, this assessment will my progress during the first weeks
 
+## Preview
+![alt text](https://github.com/JimmydeKroon/fe3-assessment-1/blob/master/assessment%201/Preview.png "preview assessment 1")
+
 ## Data
 The chosen dataset is languages.tsv, this set has 2 columns: language and speakers
 
